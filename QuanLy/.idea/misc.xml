@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/drawable/thumb.xml" value="0.269" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/drawable/track.xml" value="0.269" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/activity_main.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_donhang.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_loaisanpham.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_sanpham.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_taikhoan.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/item_ryc_taikhoan.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/layout_dialog_chitiet_taikhoan.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/layout_hear_nav.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/menu/menu_navigation.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

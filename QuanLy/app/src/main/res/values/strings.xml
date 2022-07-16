@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuanLy</string>
+    <string name="TaiKhoan">Quản Lý Tài Khoản</string>
+    <string name="SanPham">Quản Lý Sản Phẩm</string>
+    <string name="LoaiSanPham">Quản Lý Loại Sản Phẩm</string>
+    <string name="DonHang">Quản Lý Đơn Hàng</string>
+    <string name="Thoat">Thoát</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+</resources>
