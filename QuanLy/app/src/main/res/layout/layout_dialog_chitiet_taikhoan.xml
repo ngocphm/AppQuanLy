@@ -12,8 +12,6 @@
         android:background="@drawable/avatar"
         android:layout_gravity="center"
         android:layout_margin="16dp"/>
-
-
     <LinearLayout
         android:layout_marginTop="8dp"
         android:layout_gravity="center"
@@ -41,12 +39,12 @@
             android:textColor="@color/black"
             android:layout_marginTop="8dp"/>
         <androidx.appcompat.widget.SwitchCompat
-            android:id="@+id/swt_onOFF"
+            android:id="@+id/swt_taiKhoan_onOFF"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:thumb="@drawable/thumb"
             app:track="@drawable/track"
-            app:showText="true"
+            android:layout_marginRight="8dp"
             android:textOff="off"
             android:textOn="on"/>
     </LinearLayout>
