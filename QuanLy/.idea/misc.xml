@@ -3,13 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/drawable/bg_green_corner_16.xml" value="0.253" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/drawable/bg_white_corner_16.xml" value="0.253" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/drawable/thumb.xml" value="0.269" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/drawable/track.xml" value="0.269" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/activity_main.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/dialog_capnhap_taikhoan.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/dialog_chitiet_taikhoan.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/dialog_them_donhang.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/dialog_them_sanpham.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/dialog_them_taikhoan.xml" value="0.33" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/dialog_them_theloai.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_donhang.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_loaisanpham.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_sanpham.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/fragment_taikhoan.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/item_loaisanpham.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/item_rcv_loaisanpham.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/item_rcv_sanpham.xml" value="0.33" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/item_ryc_sanpham.xml" value="0.33" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/item_ryc_taikhoan.xml" value="0.33967391304347827" />
         <entry key="..\:/Users/Ngoc/AndroidStudioProjects/QuanLy/app/src/main/res/layout/layout_dialog_chitiet_taikhoan.xml" value="0.33967391304347827" />
